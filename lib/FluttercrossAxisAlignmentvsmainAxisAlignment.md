@@ -6,11 +6,15 @@
 
 `crossAxisAlignment` = Vertical Axis
 
+<img src="../assets/row.png">
+
 ## For Column:
 
 `mainAxisAlignment` = Vertical Axis
 
 `crossAxisAlignment` = Horizontal Axis
+
+<img src="../assets/column.png">
 
 These two pictures are clear to show the meaning of MainAxisAlignment and CrossAxisAlignment.
 
